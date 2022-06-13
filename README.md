@@ -35,15 +35,19 @@ Para la instalación, ejecutaremos el siguiente comando <code> apt-get install n
   ![image](https://user-images.githubusercontent.com/91564342/173432271-c1d23fc8-c87a-48ea-9af2-9d062d852baf.png)
 ![image](https://user-images.githubusercontent.com/91564342/173432300-da04d7b2-5f55-48bd-a562-b5dc41e16eff.png)
 
+ 
   
   Reiniciamos el servicio <code>nginx -t <code/>
+ 
   ![image](https://user-images.githubusercontent.com/91564342/173432383-e7625744-26a8-4cb3-9470-4d654fba566c.png)
 
   
   ## LISTO, YA PODEMOS COMPROBAR QUE TODO FUNCIONA!
   
   ![image](https://user-images.githubusercontent.com/91564342/173432516-f6ef910a-9397-4ffc-adf0-b46eef37fe65.png)
+ 
 ![image](https://user-images.githubusercontent.com/91564342/173432538-703604f1-9aef-4063-8706-db8bef152a15.png)
+ 
 
   Todo el contenidoo html ha sido extraído de https://onehtmlpagechallenge.com/
   
