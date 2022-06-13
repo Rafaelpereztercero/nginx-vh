@@ -44,7 +44,8 @@ Para la instalación, ejecutaremos el siguiente comando <code> apt-get install n
   
   ## LISTO, YA PODEMOS COMPROBAR QUE TODO FUNCIONA!
   
-  ![image](https://user-images.githubusercontent.com/91564342/173432516-f6ef910a-9397-4ffc-adf0-b46eef37fe65.png)
+![image](https://user-images.githubusercontent.com/91564342/173433142-0fbd9736-aea2-450a-a9c9-6cfd20ab870d.png)
+ 
  
 ![image](https://user-images.githubusercontent.com/91564342/173432538-703604f1-9aef-4063-8706-db8bef152a15.png)
  
